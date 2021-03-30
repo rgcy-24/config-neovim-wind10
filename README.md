@@ -6,6 +6,7 @@ Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS
 
 ## Episode 5
 
+- [Nvim Docs](https://neovim.io/doc/user/provider.html)
 - [CoC](https://github.com/neoclide/coc.nvim)
 - [CoC Extensions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
 - [Node](https://nodejs.org/en/)
