@@ -4,6 +4,13 @@ Vous désirez savoir comment je configure Windows 10 pour mon usage personnel? O
 
 Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS-X7aNbe_cv_aMMTY3ZrB)
 
+## Episode 5
+
+- [CoC](https://github.com/neoclide/coc.nvim)
+- [CoC Extensions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
+- [Node](https://nodejs.org/en/)
+- [Python](https://www.python.org/)
+
 ## Episode 4
 
 - [Colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
