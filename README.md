@@ -4,6 +4,12 @@ Vous désirez savoir comment je configure Windows 10 pour mon usage personnel? O
 
 Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS-X7aNbe_cv_aMMTY3ZrB)
 
+## Episode 4
+
+- [Colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
+- [Onedark](https://github.com/joshdick/onedark.vim)
+- [Airline](https://github.com/vim-airline/vim-airline)
+
 ## Episode 3
 
 - Vim Settings
