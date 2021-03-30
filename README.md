@@ -19,8 +19,12 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 )
 ```
 
-Lien(s):
-
 - [Neovim](https://neovim.io/)
 - [Neovim Nightly](https://github.com/neovim/neovim/releases/tag/nightly)
 - [Alacritty](https://github.com/alacritty/alacritty)
+
+## Episode 2
+
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [Vim-plug](https://github.com/junegunn/vim-plug)
+- [Hack Font](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0)
