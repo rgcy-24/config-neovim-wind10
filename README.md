@@ -4,6 +4,15 @@ Vous désirez savoir comment je configure Windows 10 pour mon usage personnel? O
 
 Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS-X7aNbe_cv_aMMTY3ZrB)
 
+## Episode 6
+
+- [Git](https://gitforwindows.org/)
+- [Scoop](https://scoop.sh/)
+- [CoC Explorer](https://github.com/weirongxu/coc-explorer)
+- [Fzf](https://github.com/junegunn/fzf)
+- [Ripgrep](https://github.com/BurntSushi/ripgrep)
+- [Issue](https://github.com/junegunn/fzf.vim/issues/1104)
+
 ## Episode 5
 
 - [Nvim Docs](https://neovim.io/doc/user/provider.html)
