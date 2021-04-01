@@ -4,6 +4,11 @@ Vous désirez savoir comment je configure Windows 10 pour mon usage personnel? O
 
 Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS-X7aNbe_cv_aMMTY3ZrB)
 
+## Episode 7
+
+- [Startify](https://github.com/mhinz/vim-startify)
+- [ASCII Art](https://patorjk.com/software/taag)
+
 ## Episode 6
 
 - [Git](https://gitforwindows.org/)
