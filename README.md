@@ -4,6 +4,10 @@ Vous désirez savoir comment je configure Windows 10 pour mon usage personnel? O
 
 Lien vers la série: [lien](https://www.youtube.com/playlist?list=PLuWyq_EO5_ALS-X7aNbe_cv_aMMTY3ZrB)
 
+## Episode 8
+
+- [Signify](https://github.com/mhinz/vim-signify)
+
 ## Episode 7
 
 - [Startify](https://github.com/mhinz/vim-startify)
